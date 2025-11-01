@@ -1,5 +1,3 @@
-import UserNewEditView from "../user-new-edit-form";
-
 export default function UserEditView() {
   return (
     <div>
